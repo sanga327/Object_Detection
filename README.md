@@ -1,2 +1,2 @@
-# Object_Detection_Project
-Object Detection Project: SSD Model
+# Object_Detection
+Object Detection: SSD Model
