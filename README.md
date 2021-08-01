@@ -1,4 +1,4 @@
-# Object Detection
+# 🦜 Object Detection 🦜
 
 > Object detection 모델을 이용한 객체 탐지 모델 만들기
 >
